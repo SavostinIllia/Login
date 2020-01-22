@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "axios": "^0.19.1",
-    "materialize-css": "^1.0.0-rc.2"
+    "bootstrap": "^4.4.1"
   }
 }
